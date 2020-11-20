@@ -1,0 +1,7 @@
+## Web Elements Locator##
+URL = https://www.google.com/
+UsernameField = //*[@id = "username"]
+PasswordField = //*[@id = "password"]
+LoginButton = //*[@id = "Login"]
+
+
